@@ -1,0 +1,21 @@
+body{
+    background-image: url(../DDDionis/Restaurant.png);
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: white;
+    font-size: 55px;
+    text-align: left;
+}
+h2{
+    color: whitesmoke;
+    font-size: 35px;
+}
+li{
+    font-size: 17px;
+    color:white;
+}
+li{
+    color:white;
+}

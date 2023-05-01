@@ -1,0 +1,21 @@
+h1{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+button{
+     background-color: burlywood;
+     border:none;
+     position: absolute;
+     transform: translate(-50%, -50%);
+     top: 30%;
+     left: 50%;
+     padding: 20px 50px;
+     font-size: 30px;
+     font-weight: bold;
+     color: white;  
+}
+body{
+    background-image: url(ART.jpg);
+    background-repeat: no-repeat;
+}
